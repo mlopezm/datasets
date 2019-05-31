@@ -1,7 +1,8 @@
-# datasets
+# Cibersecurity Datasets
 Cibersecurity Datasets info
+_______________________________________________________________________________
 
-Datasets de seguridad (más o menos probados o con ciertas referencias), solo conocemos bien los 3 primeros.
+## Datasets de seguridad (más o menos probados o con ciertas referencias), solo conocemos bien los 3 primeros.
 -	NSL-KDD https://www.unb.ca/cic/datasets/nsl.html
 -	UNSW-NB15 https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/ 
 -	AWID http://icsdweb.aegean.gr/awid/ 
@@ -17,7 +18,7 @@ Datasets de seguridad (más o menos probados o con ciertas referencias), solo co
 -	CIDDS  https://www.hs-coburg.de/cidds , https://github.com/markusring/CIDDS 
 -	Sherlock  http://bigdata.ise.bgu.ac.il/sherlock/#/   para investigar
 
-Listas de datasets de seguridad (hay mucho pero poco bueno)
+## Listas de datasets de seguridad (hay mucho pero poco bueno)
 -	https://sites.google.com/site/nttrungmtwiki/home/it/data-mining/cyber-security/list-of-public-datasets 
 -	http://www.secrepo.com/
 -	https://github.com/jivoi/awesome-ml-for-cybersecurity
@@ -30,7 +31,6 @@ Listas de datasets de seguridad (hay mucho pero poco bueno)
 -	https://toolbox.google.com/datasetsearch 
 -	https://github.com/AbertayMachineLearningGroup/network-threats-taxonomy/blob/master/Datasets/README.md
 
-
-Artículos sobre listas de datasets de seguridad
+## Artículos sobre listas de datasets de seguridad
 -	https://ieeexplore.ieee.org/abstract/document/8258167/ 
 -	https://arxiv.org/pdf/1903.02460.pdf
